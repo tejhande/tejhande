@@ -25,6 +25,7 @@ Here are a few projects I'm proud of:
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejhande&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejhande&hide_progress=true)
 
 ## Connect with Me
 
