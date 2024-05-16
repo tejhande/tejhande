@@ -17,10 +17,33 @@ Let me walk you through some of the projects that showcase my skills and passion
 
 ## GitHub Stats
 Here's a glimpse of my GitHub activity and top programming languages:
+## More GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejhande&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejhande&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tejhande&theme=radical)
+### Contributions in the Last Year
+![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=tejhande&count_private=true&show_icons=true&theme=radical)
+
+### Activity Overview
+![Your GitHub Activity Overview](https://github-readme-stats.vercel.app/api/wakatime?username=tejhande&layout=compact&theme=radical)
+
+### Most Used Languages
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejhande&layout=compact&theme=radical)
+
+### GitHub Streak
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejhande&theme=radical)
+
+## More GitHub Stats
+
+### Repository Stats
+![Your Repository Stats](https://github-readme-stats.vercel.app/api?username=tejhande&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=tejhande&color=blueviolet)
+
+### GitHub Trophies
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tejhande&theme=onedark)
+
+### Wakatime Stats
+![Your Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tejhande&layout=compact&theme=radical)
 
 ## Connect with Me
 Let's connect and discuss all things tech! You can reach out to me through the following channels:
