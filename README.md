@@ -6,7 +6,7 @@ I'm a Web Developer passionate about Python, C, and JavaScript, as well as maste
 
 - 🌱 I’m currently learning BE COMP.
 - 💬 Ask me about Python/HTML/CSS/JS.
-- 📫 How to reach me: tejasamolhande@gmail.com | tejashande.vercel.app | www.linkedin.com/in/tejashande.
+- 📫 How to reach me: tejasamolhande@gmail.com | www.tejashande.vercel.app | www.linkedin.com/in/tejashande.
 
 ## Skills
 
