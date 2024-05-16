@@ -24,7 +24,7 @@ Here are a few projects I'm proud of:
 
 ## GitHub Stats
 
-![Your GitHub Stats](Your GitHub Stats Image URL)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejhande&show_icons=true&theme=radical)
 
 ## Connect with Me
 
