@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Tejas! 👋
 
 I'm a Web Developer passionate about Python, C, and JavaScript, as well as mastering HTML and CSS. Welcome to my GitHub profile! 
 
