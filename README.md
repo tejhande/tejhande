@@ -11,7 +11,7 @@ My expertise spans across several programming languages, including HTML, CSS, Ja
 ## Projects
 Let me walk you through some of the projects that showcase my skills and passion for development:
 
-- **FoodOrderingApp**: A dynamic web application for food ordering, providing users with a seamless experience to explore and order their favorite dishes. [Check it out](https://windspeed.vercel.app/)
+- **Food Ordering App**: A dynamic web application for food ordering, providing users with a seamless experience to explore and order their favorite dishes. [Check it out](https://windspeed.vercel.app/)
 - **Landing Page**: A visually stunning landing page designed to captivate visitors and convey essential information about a product or service. [Take a look](https://marsstrong.vercel.app/)
 - **Portfolio**: My personal portfolio website, where I showcase my projects, skills, and achievements as a developer. [Visit now](https://tejashande.vercel.app/)
 
@@ -19,7 +19,8 @@ Let me walk you through some of the projects that showcase my skills and passion
 Here's a glimpse of my GitHub activity and top programming languages:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejhande&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejhande&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejhande&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tejhande&theme=radical)
 
 ## Connect with Me
 Let's connect and discuss all things tech! You can reach out to me through the following channels:
@@ -30,3 +31,17 @@ Let's connect and discuss all things tech! You can reach out to me through the f
 - Email: tejasamolhande@gmail.com
 
 Looking forward to connecting with you!
+
+---
+
+### Fun Facts About Me
+- I love hiking and exploring nature trails on weekends.
+- I'm a coffee enthusiast and enjoy trying out different brewing methods.
+- I'm also a hobbyist photographer, capturing moments and scenes that inspire me.
+
+### Inspirational Quote
+_"Success is not final, failure is not fatal: It is the courage to continue that counts."_ - Winston Churchill
+
+### Favorite Programming Quote
+_"Programs must be written for people to read, and only incidentally for machines to execute."_ - Harold Abelson
+
