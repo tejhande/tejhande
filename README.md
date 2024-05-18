@@ -1,4 +1,4 @@
-<img align="centre" src="GithubHeaderImage.png" alt="Coder GIF" height="350">
+<img align="centre" src="GithubHeaderImage.png" alt="Coder GIF" height="200" width="100%">
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">A passionate Web developer from India</h3>
