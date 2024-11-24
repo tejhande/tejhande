@@ -72,9 +72,9 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40">
   </a>
-<!--   <a href="https://flask.palletsprojects.com/" target="_blank">
+  <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40">
-  </a> -->
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
   </a>
@@ -118,8 +118,8 @@
 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejhande&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejhande&show_icons=true&locale=en" alt="GitHub Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejhande&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejhande&" alt="GitHub Streak">
-</p> -->
+</p>
