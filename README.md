@@ -34,7 +34,7 @@
 
 ### 📫 How to reach me - **tejasamolhande@gmail.com**
 
-### 📄 Know about my experiences - [Resume](https://tejashande.vercel.app/assets/Tejas_Hande_Web_Developer_Resume.pdf)
+### 📄 Know about my experiences - [Resume](https://tejashande.vercel.app/assets/TejasHande_Fresher_Java.pdf)
 
 ### Connect with me
 <p align="left">
