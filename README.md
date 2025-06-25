@@ -8,7 +8,7 @@
   <a href="https://twitter.com/tejashande25" target="_blank">
     <img src="https://img.shields.io/twitter/follow/tejashande25?logo=twitter&style=for-the-badge" alt="Twitter">
   </a>
-  <a href="https://www.buymeacoffee.com/tejas1">
+  <a href="https://razorpay.me/@windspeed">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </p>
